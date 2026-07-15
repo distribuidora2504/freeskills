@@ -4,6 +4,8 @@ Free Claude Code skills for my YouTube audience.
 
 Each skill lives in its own folder. Grab the one you want, drop it into your Claude Code skills directory, and start using it. That's the whole setup.
 
+> **Want to actually learn Claude Code?** Join the [Claude Code Club](https://www.skool.com/claudecodeclub) — learn Claude Code plus all my resources, for just $9.
+
 ## Skills
 
 | Skill | What it does |
@@ -49,3 +51,7 @@ Click the green **Code** button on the [repo page](https://github.com/duncan-bui
 ## License
 
 Free to use and modify. Made for builders.
+
+---
+
+**Want to actually learn Claude Code?** Join the [Claude Code Club](https://www.skool.com/claudecodeclub) — learn Claude Code plus all my resources, for just $9.
